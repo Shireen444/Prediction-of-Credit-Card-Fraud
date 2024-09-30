@@ -1,4 +1,4 @@
-# Prediction-of-Credit-Card-fraud
+# Prediction-of-Credit-Card-Fraud
 We have to build a classification model to predict whether a transaction is fraudulent or not.
 
 ##  Problem Statement
