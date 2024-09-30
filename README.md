@@ -42,19 +42,19 @@ Dealing with Imbalanced data: This data set is highly imbalanced. The data shoul
 
 * #### Transaction Distribution by class.
 
-    **A** The percentage of fradulent transactions (0.172%) very less, thus we have an highly imbalanced dataset.
+    **A.**  The percentage of fradulent transactions (0.172%) very less, thus we have an highly imbalanced dataset.
 
     ![Data Chart 1](Reports/Bar_Chart.png)
 
 * #### Amount per transaction by class.
 
-    **B** Amount of transactions between legit & fraud differs by a huge margin.
+    **B.**  Amount of transactions between legit & fraud differs by a huge margin.
 
     ![Data Chart 1](Reports/Histogram.png)
     
 * #### Time of transaction vs amount by class
 
-    **C** The fraud transactions seems to have amount not more than 2500.
+    **C.**  The fraud transactions seems to have amount not more than 2500.
 
     ![Data Chart 2](Reports/Scatter_Plot_1.png)
     
